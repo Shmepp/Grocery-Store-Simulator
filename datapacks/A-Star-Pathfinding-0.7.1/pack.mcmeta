@@ -1,0 +1,9 @@
+{
+  "pack": {
+	"description": "A* Pathfinding",
+	"pack_format": 45,
+	"min_format": 45,
+	"max_format": 999,
+	"supported_formats": [45, 999]
+  }
+}

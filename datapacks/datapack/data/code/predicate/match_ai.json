@@ -1,0 +1,24 @@
+{
+    "condition": "entity_scores",
+    "entity": "this",
+    "scores": {
+        "ai.id": {
+            "max": {
+                "type": "score",
+                "score": "ai.id",
+                "target": {
+                    "type": "fixed",
+                    "name": ".search"
+                }
+            },
+            "min": {
+                "type": "score",
+                "score": "ai.id",
+                "target": {
+                    "type": "fixed",
+                    "name": ".search"
+                }
+            }
+        }
+    }
+}

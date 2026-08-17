@@ -1,0 +1,1 @@
+$data modify storage code:temp name set from storage code:names names[$(i)]
