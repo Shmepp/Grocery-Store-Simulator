@@ -1,4 +1,4 @@
 {
 	"replace": false,
-	"values": ["aj:front_door/on_load"]
+	"values": ["aj:front_door/on_load", "aj:garage/on_load"]
 }

@@ -10,6 +10,14 @@
 				"assets/aj/models/blueprint/front_door/right_door.json",
 				"assets/aj/textures/blueprint/front_door/texture.png"
 			]
+		},
+		"aj:garage": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/garage/door.json",
+				"assets/aj/models/blueprint/garage/door.json",
+				"assets/aj/textures/blueprint/garage/texture.png"
+			]
 		}
 	}
 }
