@@ -12,7 +12,7 @@ function animated_java:global/data_manager/read with storage animated_java:temp 
 data modify storage animated_java:temp entry.data.uuids append from storage animated_java:gu out
 data modify storage animated_java:temp entry.data.root_uuid set from storage animated_java:gu out
 data modify storage animated_java:temp entry.data.blueprint_id set value "aj:front_door"
-data modify storage animated_java:temp entry.data.rig_hash set value "3d29606ffde414c184cf6c45f76f09e6c833339cee36e61d299f158889f21bf9"
+data modify storage animated_java:temp entry.data.rig_hash set value "6eb1192fd8eff4b20050d7637650a5257b856d24c6b3b1b59dbe5423ce698394"
 tp @s ~ ~ ~ ~ ~
 execute on passengers if entity @s[tag=aj.front_door.node.right_door] run function aj:front_door/zzz/summon/as_node/right_door
 data modify storage animated_java:temp entry.data.uuids append from storage animated_java:gu out

@@ -1,1 +1,4 @@
-{"values":["aj:front_door/on_load"]}
+{
+	"replace": false,
+	"values": ["aj:front_door/on_load"]
+}
