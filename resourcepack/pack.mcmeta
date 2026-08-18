@@ -1,7 +1,7 @@
 {
-    "pack": {
-        "max_format": 88.0,
-        "min_format": 88.0,
-        "description": "I hear beeps in my sleep"
-    }
+	"pack": {
+		"max_format": 88,
+		"min_format": 88,
+		"description": "I hear beeps in my sleep"
+	}
 }

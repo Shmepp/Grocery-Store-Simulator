@@ -1,0 +1,15 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"aj:front_door": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/front_door/left_door.json",
+				"assets/aj/items/blueprint/front_door/right_door.json",
+				"assets/aj/models/blueprint/front_door/left_door.json",
+				"assets/aj/models/blueprint/front_door/right_door.json",
+				"assets/aj/textures/blueprint/front_door/texture.png"
+			]
+		}
+	}
+}
